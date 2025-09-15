@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "BellmanFord11",
+      "request": "launch",
+      "mainClass": "BellmanFord11",
+      "projectName": "DAA-TA-1_3c48fe7a"
+    },
+    {
+      "type": "java",
+      "name": "LargestRectangleHistogram",
+      "request": "launch",
+      "mainClass": "LargestRectangleHistogram",
+      "projectName": "DAA-TA-1_3c48fe7a"
+    },
+    {
+      "type": "java",
+      "name": "MaxArea",
+      "request": "launch",
+      "mainClass": "MaxArea",
+      "projectName": "DAA-TA-1_3c48fe7a"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/sarth/OneDrive/Documents/GitHub/DAA-TA-1",
+      "program": "c:/Users/sarth/OneDrive/Documents/GitHub/DAA-TA-1/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
